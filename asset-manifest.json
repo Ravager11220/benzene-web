@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/benzene-web/static/js/main.f3a5227b.js",
+    "static/media/bzlogo.png": "/benzene-web/static/media/bzlogo.5a378a797f1e2e4eceee.png",
+    "index.html": "/benzene-web/index.html",
+    "main.f3a5227b.js.map": "/benzene-web/static/js/main.f3a5227b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3a5227b.js"
+  ]
+}
